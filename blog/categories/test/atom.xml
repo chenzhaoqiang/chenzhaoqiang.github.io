@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | Zhaoqiang Chen]]></title>
+  <link href="http://chenzhaoqiang.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://chenzhaoqiang.github.io/"/>
+  <updated>2016-11-26T21:00:24+08:00</updated>
+  <id>http://chenzhaoqiang.github.io/</id>
+  <author>
+    <name><![CDATA[chenzhaoqiang]]></name>
+    <email><![CDATA[chenzhaoqiang@139.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world!]]></title>
+    <link href="http://chenzhaoqiang.github.io/blog/2016/11/26/hello-world/"/>
+    <updated>2016-11-26T19:59:00+08:00</updated>
+    <id>http://chenzhaoqiang.github.io/blog/2016/11/26/hello-world</id>
+    <content type="html"><![CDATA[<p>This is a test blog.</p>
+
+<p>Hello world!</p>
+
+<p><img src="/resource/hello-world.jpg"></p>
+
+<p>If you write, still nothing will change.</p>
+]]></content>
+  </entry>
+  
+</feed>

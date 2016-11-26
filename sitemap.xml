@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://chenzhaoqiang.github.io/blog/2016/11/26/hello-world/</loc>
+        <lastmod>2016-11-26T20:11:31+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chenzhaoqiang.github.io/blog/archives/</loc>
+        <lastmod>2016-11-26T20:11:31+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chenzhaoqiang.github.io/blog/categories/</loc>
+        <lastmod>2016-11-26T20:44:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chenzhaoqiang.github.io/</loc>
+        <lastmod>2016-11-26T20:11:31+08:00</lastmod>
+    </url>
+</urlset>
